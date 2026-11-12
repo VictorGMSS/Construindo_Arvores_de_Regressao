@@ -1,5 +1,3 @@
-# Construindo Arvores de Regressao
-
 # 📦 Precificação de Entrega de Esculturas com Árvores de Regressão
 
 Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvores de Regressão"** (formação *Machine Learning & Deep Learning*). O objetivo deste repositório é aplicar técnicas de preparação de dados, engenharia de atributos, otimização de hiperparâmetros e validação cruzada para construir modelos preditivos baseados em árvores (`DecisionTreeRegressor` e `RandomForestRegressor`) capazes de estimar o custo de entrega (`custo`) de esculturas.

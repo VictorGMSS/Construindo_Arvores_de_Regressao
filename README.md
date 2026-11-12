@@ -38,3 +38,11 @@ Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvore
    cd Precificacao_Entrega_Esculturas
    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
    jupyter notebook Arvores_de_Regressao_Esculturas.ipynb
+---
+
+## 👨‍💻 Informações pessoais
+
+Victor Gabriel Martins e Souza
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/victorgms](https://www.linkedin.com/in/victorgms)
+* 🌐 Portfólio: [https://verxstech.vercel.app](https://verxstech.vercel.app)

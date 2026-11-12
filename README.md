@@ -1,6 +1,6 @@
 # 📦 Precificação de Entrega de Esculturas com Árvores de Regressão
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Precificacao_Entrega_Esculturas/blob/main/Arvores_de_Regressao_Esculturas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1caU0WY0zxmZUoJG8TcsL7zX82e-lTORd/view?usp=sharing)
 
 Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvores de Regressão"** (formação *Machine Learning & Deep Learning*). O objetivo deste repositório é aplicar técnicas de preparação de dados, engenharia de atributos, otimização de hiperparâmetros e validação cruzada para construir modelos preditivos baseados em árvores (`DecisionTreeRegressor` e `RandomForestRegressor`) capazes de estimar o custo de entrega (`custo`) de esculturas.
 

@@ -1,6 +1,6 @@
 # 📦 Precificação de Entrega de Esculturas com Árvores de Regressão
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Precificacao_Entrega_Esculturas/blob/main/Arvores_de_Regressao_Esculturas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Construindo_Arvores_de_Regressao/blob/main/arvores%20de%20regress%C3%A3o.ipynb)
 
 Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvores de Regressão"** (formação *Machine Learning & Deep Learning*). O objetivo deste repositório é aplicar técnicas de preparação de dados, engenharia de atributos, otimização de hiperparâmetros e validação cruzada para construir modelos preditivos baseados em árvores (`DecisionTreeRegressor` e `RandomForestRegressor`) capazes de estimar o custo de entrega (`custo`) de esculturas.
 
@@ -18,7 +18,7 @@ Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvore
 
 ## 🗂️ Estrutura do Repositório
 
-* `Arvores_de_Regressao_Esculturas.ipynb`: Notebook principal contendo todo o pipeline de pré-processamento, treinamento, visualização de árvores/importância de atributos, otimização com `GridSearchCV` e validação cruzada.
+* `arvores de regressão.ipynb`: Notebook principal contendo todo o pipeline de pré-processamento, treinamento, visualização de árvores/importância de atributos, otimização com `GridSearchCV` e validação cruzada.
 * `entregas.csv`: Base de dados principal para treino e validação (4.462 registros e 19 colunas originais, contendo dimensões físicas, peso, valor da obra, reputação do artista, características logísticas e o alvo `custo`).
 * `teste_entregas.csv`: Base de dados de teste sem a variável alvo, utilizada para gerar previsões finais com o melhor modelo treinado.
 * `Precos_entregas.csv`: Arquivo de saída gerado pelo pipeline contendo as estimativas finais de custo de envio.
@@ -49,10 +49,10 @@ Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvore
 1. **Via Google Colab (Recomendado):** Clique no botão **"Open in Colab"** no topo deste README para abrir e executar o notebook diretamente no navegador sem precisar configurar ambiente local.
 2. **Localmente:**
 ```bash
-git clone https://github.com/VictorGMSS/Precificacao_Entrega_Esculturas.git
-cd Precificacao_Entrega_Esculturas
+git clone https://github.com/VictorGMSS/Construindo_Arvores_de_Regressao.git
+cd Construindo_Arvores_de_Regressao
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-jupyter notebook Arvores_de_Regressao_Esculturas.ipynb
+jupyter notebook "arvores de regressão.ipynb"
 ```
 
 ---

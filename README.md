@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Construindo_Arvores_de_Regressao/blob/main/arvores%20de%20regress%C3%A3o.ipynb)
 
-Projeto prático desenvolvido durante o curso **"Regressão: Construindo Árvores de Regressão"** (formação *Machine Learning & Deep Learning*). O objetivo deste repositório é aplicar técnicas de preparação de dados, engenharia de atributos, otimização de hiperparâmetros e validação cruzada para construir modelos preditivos baseados em árvores (`DecisionTreeRegressor` e `RandomForestRegressor`) capazes de estimar o custo de entrega (`custo`) de esculturas.
+Projeto prático desenvolvido durante o curso na **"Alura"** (formação *Machine Learning & Deep Learning*). O objetivo deste repositório é aplicar técnicas de preparação de dados, engenharia de atributos, otimização de hiperparâmetros e validação cruzada para construir modelos preditivos baseados em árvores (`DecisionTreeRegressor` e `RandomForestRegressor`) capazes de estimar o custo de entrega (`custo`) de esculturas.
 
 ---
 
